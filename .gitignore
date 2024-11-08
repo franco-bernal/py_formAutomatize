@@ -1,0 +1,15 @@
+# Entorno virtual
+env/
+venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de configuración del entorno
+.env
+
+# Configuración de IDEs (por ejemplo, PyCharm o VSCode)
+.idea/
+.vscode/
